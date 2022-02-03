@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mento-react/static/css/main.f95fe210.css",
-    "main.js": "/mento-react/static/js/main.ed0ac2d3.js",
+    "main.css": "/mento-react/static/css/main.c70b49eb.css",
+    "main.js": "/mento-react/static/js/main.9cb69ae9.js",
     "static/js/787.9adceaef.chunk.js": "/mento-react/static/js/787.9adceaef.chunk.js",
     "static/media/meeting.jpg": "/mento-react/static/media/meeting.0e72cd76bc6ecf50ea7b.jpg",
     "static/media/타일러.png": "/mento-react/static/media/타일러.efce2a04d5ba561b69e3.png",
@@ -14,12 +14,12 @@
     "static/media/jisung.jpg": "/mento-react/static/media/jisung.bf7578463330cbd2f71e.jpg",
     "static/media/taeyeon.jpg": "/mento-react/static/media/taeyeon.7d389a08560192d1231c.jpg",
     "index.html": "/mento-react/index.html",
-    "main.f95fe210.css.map": "/mento-react/static/css/main.f95fe210.css.map",
-    "main.ed0ac2d3.js.map": "/mento-react/static/js/main.ed0ac2d3.js.map",
+    "main.c70b49eb.css.map": "/mento-react/static/css/main.c70b49eb.css.map",
+    "main.9cb69ae9.js.map": "/mento-react/static/js/main.9cb69ae9.js.map",
     "787.9adceaef.chunk.js.map": "/mento-react/static/js/787.9adceaef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f95fe210.css",
-    "static/js/main.ed0ac2d3.js"
+    "static/css/main.c70b49eb.css",
+    "static/js/main.9cb69ae9.js"
   ]
 }
